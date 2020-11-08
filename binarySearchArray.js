@@ -1,3 +1,6 @@
+// O(log(n)) time complexity
+// O(n) space complexity
+
 function binarySearch(array, item) {
     let first = 0;
     let middle;
