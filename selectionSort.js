@@ -1,3 +1,7 @@
+// time complexity O(n**2)
+// space complexity O(n) total, O(1) auxiliary
+
+
 function selectionSort(array) {
     let lowest;
     let tmp;
